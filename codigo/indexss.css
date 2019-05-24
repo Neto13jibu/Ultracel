@@ -1,0 +1,29 @@
+body{font-size: 14; font-family: Microsoft YaHei UI Light; background-color: #FFFFFF}
+header{background-color: #3F55B6; height: auto;}
+header img{width: 100%; padding: 25px;}
+nav{background: #FFFFFF; color: #fff}
+.nav li a{color: #000000; background: #BF3418 opacity: 0.0; text-decoration:none;display: block; padding: 6px 10px 6px 10px; border-radius: 10px;}
+.nav >li{float: right;}
+.nav li a:hover{color: #3F55B6;}
+.contenido{padding: 30px 0px 0px 15px}
+div.publicidad {overflow: hidden;}
+div.publicidad ul{padding: 0; display: flex; width: 400%; animation: cambio 10s infinite; animation-direction: alternate;;}
+div.publicidad li{list-style: none; width: 100%}
+img.p{width: 100%}
+@keyframes cambio{
+0%{ margin-left:0;}20%{ margin-left:0;}
+25%{ margin-left:-100%;}45%{ margin-left:-100%;}
+50%{ margin-left:-200%;}70%{ margin-left:-200%;}
+75%{ margin-left:-300%;}100%{ margin-left:-300%;}
+}
+.azul{background-color: #3F55B6}
+.main{padding: 50px 0px 50px 0px}
+.main img{width: 100%;}
+.top{padding-top: 30px; text-align: center}
+div.s{padding: 30px 0px 30px 0px; text-align: center;}
+div.s img{width: 50%; align-content: center}
+div.t{padding-bottom: 50px}
+ul {display: inline-block; text-align: left;}
+footer{height: 50%;background: #3F55B6; color: #FFFFFF; padding-top: 25px}
+div.da1 img{width: 20%; align-content: center;}
+div.da1:hover{opacity: 1;}
