@@ -1,0 +1,14 @@
+body{font-size: 18; font-family: Microsoft YaHei UI Light; background-color: #FFFFFF}
+header{background-color: #3F55B6; height: auto;}
+header img{width: 100%; padding: 25px;}
+nav{background: #FFFFFF; color: #fff}
+.nav li a{color: #000000; background: #BF3418 opacity: 0.0; text-decoration:none;display: block; padding: 6px 10px 6px 10px; border-radius: 10px;}
+.nav li a:hover{color: #3F55B6;}
+.principal img{width: 100%}
+section{padding-top: 25px;}
+aside{padding: 25px 25px 10px 25px}
+button{ background-color: #3F55B6; color: #fff; padding: 10px 10px; border-radius: 15px; position: absolute; bottom: 11em; right: 10em;}
+.mitad{width: 75%}
+footer{height: 50%;background: #3F55B6; color: #FFFFFF; padding-top: 25px}
+div.da1 img{width: 20%; align-content: center;}
+div.da1:hover{opacity: 0.3;}
